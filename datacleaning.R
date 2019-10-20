@@ -1,4 +1,4 @@
-data <- read.csv('lake_erie.csv')
+data <- read.csv('MODIS_data.csv')
 
 library(ggpubr)
 
